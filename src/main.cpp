@@ -9,7 +9,7 @@
 
 int main()
 {
-    Window window(512, 512, "MyEngine GLFW C++");
+    Window window(512, 512, "AnotherOpenglEngine Example 1");
     if(!window)
     {
         std::cout << "Failed to call Window::Window()\n";
